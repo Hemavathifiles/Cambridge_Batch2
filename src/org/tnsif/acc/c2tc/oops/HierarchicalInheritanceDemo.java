@@ -30,7 +30,7 @@ public class HierarchicalInheritanceDemo {
 		Developer dev=new Developer();
 		dev.company();
 		dev.role();
-		dev.print();
+		
 		
 		Tester test=new Tester();
 		test.company();
